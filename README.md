@@ -31,13 +31,19 @@ To connect to a CX Unity tenant, follow these steps:
 
 #### Entities
 
-#### Master Entities
+ ![Entities](entities.gif)
 
-##### Intelligent Attributes
+#### Master Entities & Intelligent Attributes
+
+![Master Entities](masterentities.gif)
 
 #### Queries
 
+![MCPSQuery Segmentation Code](query_execute.gif)
+
 #### Sequences
+
+![Sequence](sequence.gif)
 
 ## Plugin Development
 
