@@ -37,6 +37,10 @@ To connect to a CX Unity tenant, follow these steps:
 
 ![Master Entities](masterentities.gif)
 
+#### API 360 (Customer 360)
+
+![Customer 360](customer360.gif)
+
 #### Queries
 
 ![MCPSQuery Segmentation Code](query_execute.gif)
