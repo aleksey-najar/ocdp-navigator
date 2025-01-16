@@ -2,7 +2,7 @@
 
 Welcome to the unofficial Oracle CDP CX Unity plugin for the Jetbrains Platform
 
-The Couchbase JetBrains plugin provides support for Couchbase in JetBrains IDEs.
+The OCDP JetBrains plugin provides support for Oracle CDP CX Unity in JetBrains IDEs.
 
 ## Installation (TBD)
 
